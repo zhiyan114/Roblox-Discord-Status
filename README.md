@@ -1,2 +1,2 @@
 # Roblox-Discord-Status
-Improved Custom Status for Roblox.
+RobloxStatus is a software that allows you to display your current game for roblox.
